@@ -1,0 +1,8 @@
+For me the biggest challenge with this program is remebering the code. I feel like I will forget what code to put for a problem. A way I could overcome it will be writing down code everytime I am stuck on a problem or forget what to put. Another way is to keep practicing on the code so I can get familiar with it and remember what to put. 
+
+The differences between for,while and do-while are while loops check conditions before iteration of the loop and do-while loops verifies the condition after the execution of the statements inside the loop. The condition in for and while loops are checked before the control enters the loop. In do-while loops the condition is checked at the end of the loop. In do-while loops there is a semicolon at the end of the condition. In while and for there is no semicolon after the condition. In do while the conditional statement is at the bottom of the loop. In do-while there can only be a single statement or a block of statements. while loops check the condition after each iteration so it takes more time to exicute the code. Do-while will execute immediately before cheacking the condition.
+
+It helps to write the solution down in english or pseudocode because then you know what code you need to exicute that specific solution. It also helps when you need to go back into your code to see what is wrong with it if your code is not working. It helps you in future classes when you forget how to do something and you want to look back on the code you did and can easily find it. Writing down also helps you point to where you are if you stop and have to take a break. 
+
+
+
