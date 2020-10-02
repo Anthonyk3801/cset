@@ -27,6 +27,8 @@ p {
   opacity: 0.9;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
+  padding-bottom: 3px;
 }
 ul li {
   text-align: center;
@@ -66,4 +68,8 @@ a:visited {
 }
 a:hover {
   color: white;
+}
+a[href*="hempfield"] {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
 }
